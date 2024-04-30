@@ -1,4 +1,4 @@
->**&nbsp;💻Lenguajes De Programación que utilizo**\
+>**&nbsp;Lenguajes De Programación que utilizo**\
 >C++\
 >C#\
 >MySQL
